@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # opencv 遍历图像
 
 最高效的方法是使用指针遍历图像
