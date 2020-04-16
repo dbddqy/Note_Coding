@@ -6,7 +6,7 @@ G28 ; home all axes
 
 G1 Y10.0 F500
 G1 X60.0 E9 F500
-G1 X100.0 E22.5 F500
+G1 X100.0 E12 F500
 ```
 
 ending:  
