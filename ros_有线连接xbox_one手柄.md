@@ -1,4 +1,4 @@
-# ros_有线连接xbox_one手柄
+# ros 有线连接xbox_one手柄
 
 首先安装ros中的joy包
 ```
